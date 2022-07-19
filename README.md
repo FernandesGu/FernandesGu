@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-<a href="www.linkedin.com/in/gustavo-fernandes-b22a68219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-"</a>
+<a href="https://www.linkedin.com/in/gustavo-fernandes-b22a68219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-"</a>
 </div> 
 
 ### Main skills:
